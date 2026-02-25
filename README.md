@@ -43,6 +43,4 @@ The frontend is deployed on **Vercel**.
 - Frontend: **Vercel**
 - Backend: Local / Render / Railway (recommended)
 
----
 
-## 📁 Project Structure
