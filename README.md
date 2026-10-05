@@ -43,4 +43,6 @@ The frontend is deployed on **Vercel**.
 - Frontend: **Vercel**
 - Backend: Local / Render / Railway (recommended)
 
+## Jenkins CI/CD
 
+Jenkins pipeline configured for automated build and testing.
